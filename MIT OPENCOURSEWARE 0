@@ -1,0 +1,6 @@
+import math
+x = int(input("Enter Number x: "))
+y = int(input("Enter Number y: "))
+calc1 = x**y
+print(calc1)
+print(math.log(x, 2))
